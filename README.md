@@ -38,4 +38,5 @@ RealEstateProject, ASP.NET Core 8.0 kullanılarak geliştirilmiş bir emlak ilan
 - **Emlak İlanları**: Kullanıcılar satılık veya kiralık ev ilanlarını paylaşabilirler. ✅  
 - **JWT ile Kimlik Doğrulama**: Kullanıcılar hesaplarına güvenli şekilde giriş yapabilirler. ✅  
 - **API Entegrasyonu**: Harici API'ler consume edilerek veri alınabilir. ✅  
-- **SOLID Prensipleri**: Proje, SOLID prensiplerine uygun olarak geliştirilmiştir. ✅  
+- **SOLID Prensipleri**: Proje, SOLID prensiplerine uygun olarak geliştirilmiştir. ✅
+- 
